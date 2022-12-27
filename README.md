@@ -1,2 +1,1 @@
-# aws_steps_handy
-documentation and steps
+Hands commands and steps for quick reference
