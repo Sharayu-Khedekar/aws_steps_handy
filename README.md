@@ -1,1 +1,1 @@
-Handy commands and steps for quick reference
+Handy AWS steps and command for quick reference
